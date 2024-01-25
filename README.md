@@ -7,7 +7,7 @@ Simple cli app to generate good passwords from a required size
 ```bash
 git clone https://github.com/Dpbm/create-good-passwords.git
 cd create-good-passwords
-python createGoodPasswords.py password_length <-- with this your new password will be in clipboard
+python createGoodPasswords.py password_length # <-- with this your new password will be in clipboard
 ```
 
 ## Example Input
